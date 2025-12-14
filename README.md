@@ -1,2 +1,2 @@
 
-<img src="https://github.com/sounderrun/sounderrun/blob/main/processing.gif" alt="Banner" width="50%" />
+# <img src="" alt="Banner" width="50%" />
