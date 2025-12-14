@@ -1,1 +1,2 @@
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhuZmR1bjBjbno3OHI4azl1Ymt1eXY3YjhkejRkbHAzYWViaXJhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FG7iOiWkxOJBcjxDW/giphy.gif" alt="Banner" width="45%" />
+
